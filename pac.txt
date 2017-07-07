@@ -2,7 +2,7 @@ var proxy = "__PROXY__";
 var rules = [
 "||xxx.com/",
 ".xxx.com/",  
-".Disqus.com",
+".disqus.com",
 ".google.ca/",
 "||google.ca/",
 "||genymotion.com/",
